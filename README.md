@@ -40,16 +40,19 @@ This folder contains the two used dataset (after cleaning and process based on t
 
 3- Cython 0.29.12
 
-## USE
+## Usage:
 
 To launch the implementation, go to the downloaded folder then execute:
 
+	git clone https://github.com/Abdessamad139/UGPFM.git
+	cd UGPFM
 	python3 setup.py build_ext --inplace
 	python3 UGPFM.py --lr 0.001 --iter 100 --fact 10
  
 ## Citation
 
-If you use those data or the framework please cite us:
+If you use these data or the framework, please cite us:
+
 ```
 Chanaa, A., Faddouli, N.E., An Analysis of learners’ affective and cognitive traits inContext-Aware Recommender Systems (CARS) using feature interactions and Factorization Machines (FMs),Journal  of  King  Saud  University  -  Computer  and  Information  Sciences  (2021),  doi: https://doi.org/10.1016/j.jksuci.2021.06.008
 
