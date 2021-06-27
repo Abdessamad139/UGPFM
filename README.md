@@ -54,7 +54,7 @@ To launch the implementation, go to the downloaded folder then execute:
 If you use these data or the framework, please cite us:
 
 ```
-Chanaa, A., Faddouli, N.E., An Analysis of learners’ affective and cognitive traits inContext-Aware Recommender Systems (CARS) using feature interactions and Factorization Machines (FMs),Journal  of  King  Saud  University  -  Computer  and  Information  Sciences  (2021),  doi: https://doi.org/10.1016/j.jksuci.2021.06.008
+Chanaa, A., Faddouli, N.E., An Analysis of learners’ affective and cognitive traits in Context-Aware Recommender Systems (CARS) using feature interactions and Factorization Machines (FMs),Journal  of  King  Saud  University  -  Computer  and  Information  Sciences  (2021),  doi: https://doi.org/10.1016/j.jksuci.2021.06.008
 
 ```
 
