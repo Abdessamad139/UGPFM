@@ -42,8 +42,6 @@ This folder contains the two used dataset (after cleaning and process based on t
 
 ## Usage:
 
-To launch the implementation, go to the downloaded folder then execute:
-
 	git clone https://github.com/Abdessamad139/UGPFM.git
 	cd UGPFM/
 	python3 setup.py build_ext --inplace
