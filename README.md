@@ -19,13 +19,13 @@ This folder contains the two used dataset (after cleaning and process based on t
 
 **./coursera/review_complete_data_final.csv** : contains "100K Coursera’s Course Reviews" dataset.
 
-**./coursera/data_difficulty_user.csv** : contains "Coursera Course Dataset" coursera dataset.
+**./coursera/data_difficulty_user.csv** : contains "Coursera Course Dataset" dataset.
 
 **./UGPFM_FAST/pylibfm**: the official implementation of FM based on (https://github.com/coreylynch/pyFM).
 
 **./UGP/UGP.py**: the implementation of UGP that generates feature interactions. it is based on (https://github.com/zhuangAnjun/Glomo).
 
-**setup.py** : the build file for cython it contains the compilations options to produce the .c file from the .pyx file.
+**setup.py** : the build file for cython. It contains the compilations options to produce the .c file from the .pyx file.
 
 **UGPFM_fast.pyx**: Cython file. it will compiled automatically to a .c file thanks to "setup.py"
 
