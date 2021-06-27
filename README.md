@@ -19,7 +19,7 @@ This folder contains the two used dataset (after cleaning and process based on t
 
 **./coursera/review_complete_data_final.csv** : contains "100K Coursera’s Course Reviews" dataset.
 
-**./coursera/data_difficulty_user.csv** : contains "Coursera Course Dataset" dataset.
+**./level/data_difficulty_user.csv** : contains "Coursera Course Dataset" dataset.
 
 **./UGPFM_FAST/pylibfm**: the official implementation of FM based on (https://github.com/coreylynch/pyFM).
 
