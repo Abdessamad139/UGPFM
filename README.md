@@ -17,19 +17,19 @@ This folder contains the two used dataset (after cleaning and process based on t
   
 ## Files
 
-```**./coursera/review_complete_data_final.csv**``` : contains "100K Coursera’s Course Reviews" dataset.
+**```./coursera/review_complete_data_final.csv```** : contains "100K Coursera’s Course Reviews" dataset.
 
-```**./level/data_difficulty_user.csv**``` : contains "Coursera Course Dataset" dataset.
+**```./level/data_difficulty_user.csv```** : contains "Coursera Course Dataset" dataset.
 
-```**./UGPFM_FAST/pylibfm**```: the official implementation of FM based on (https://github.com/coreylynch/pyFM).
+**```./UGPFM_FAST/pylibfm```**: the official implementation of FM based on (https://github.com/coreylynch/pyFM).
 
-```**./UGP/UGP.py**```: the implementation of UGP that generates feature interactions. it is based on (https://github.com/zhuangAnjun/Glomo).
+**```./UGP/UGP.py```**: the implementation of UGP that generates feature interactions. it is based on (https://github.com/zhuangAnjun/Glomo).
 
-```**setup.py**``` : the build file for Cython. It contains the compilations options to produce the .c file from the .pyx file.
+**```setup.py```** : the build file for Cython. It contains the compilations options to produce the .c file from the .pyx file.
 
-```**UGPFM_fast.pyx**```: Cython file, it will compiled automatically to a .c file thanks to "setup.py"
+**```UGPFM_fast.pyx```**: Cython file, it will compiled automatically to a .c file thanks to "setup.py"
 
-```**UGPFM.py**```: the main file that combine UGP with FM.
+**```UGPFM.py```**: the main file that combine UGP with FM.
 
 
 ## Requirements
