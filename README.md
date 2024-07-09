@@ -1,6 +1,6 @@
 # UGPFM
 
-This is the official implementation of the UNSUPERVISED GRAPH PREDICTOR FACTORIZATION MACHINE (UGPFM) algorithm. This new approach was publised in Journal of King Saud University - Computer and Information Sciences (JKSUCIS).
+This is the official implementation of the UNSUPERVISED GRAPH PREDICTOR FACTORIZATION MACHINE (UGPFM) algorithm. This new approach was published in the Journal of King Saud University - Computer and Information Sciences (JKSUCIS).
 
 By Abdessamad Chanaa & Nour-eddine El Faddouli.
 
@@ -10,10 +10,10 @@ An Analysis of learners’ affective and cognitive traits in Context-Aware Recom
 
 ## Datasets
 
-This folder contains the two used dataset (after cleaning and process based on the chosen contexts) : 
+This folder contains the two used datasets (after cleaning and process based on the chosen contexts) : 
 
-	1- coursera: contains "100K Coursera's Course Reviews dataset"
-	2- level: contains "Coursera Course Dataset"
+	1- Coursera: contains "100K Coursera's Course Reviews dataset"
+	2- Level: contains "Coursera Course Dataset"
   
 ## Files
 
@@ -29,7 +29,7 @@ This folder contains the two used dataset (after cleaning and process based on t
 
 **```UGPFM_fast.pyx```**: Cython file, it will compiled automatically to a .c file thanks to "setup.py"
 
-**```UGPFM.py```**: the main file that combine UGP with FM.
+**```UGPFM.py```**: the main file that combines UGP with FM.
 
 
 ## Requirements
