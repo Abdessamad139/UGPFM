@@ -54,4 +54,20 @@ If you use these data or the framework, please cite us:
 ```
 Abdessamad Chanaa, Nour-eddine El Faddouli, An Analysis of learners’ affective and cognitive traits in Context-Aware Recommender Systems (CARS) using feature interactions and Factorization Machines (FMs), Journal of King Saud University - Computer and Information Sciences, 2021, ISSN 1319-1578, https://doi.org/10.1016/j.jksuci.2021.06.008.
 ```
+or BibTex
+
+```
+
+@article{chanaa2022analysis,
+  title={An Analysis of learners’ affective and cognitive traits in Context-Aware Recommender Systems (CARS) using feature interactions and Factorization Machines (FMs)},
+  author={Chanaa, Abdessamad and others},
+  journal={Journal of King Saud University-Computer and Information Sciences},
+  volume={34},
+  number={8},
+  pages={4796--4809},
+  year={2022},
+  publisher={Elsevier}
+}
+
+```
 
